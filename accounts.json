@@ -1,5 +1,5 @@
 {
-  "nextId": 4,
+  "nextId": 9,
   "accounts": [
     {
       "id": 1,
@@ -12,9 +12,19 @@
       "balance": 100
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Isabel Chagas",
       "balance": 2500.6
+    },
+    {
+      "id": 5,
+      "name": "Beatriz Maciel Chagas",
+      "balance": 1000
+    },
+    {
+      "id": 8,
+      "name": "José Mário",
+      "balance": 1000
     }
   ]
 }
